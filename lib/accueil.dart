@@ -24,7 +24,7 @@ class AccueilState extends State<Accueil> {
   final List<Service> services = [
     Service(0, "Sheraton Hotel", "images/shert.jfif", "images/shert1.jfif", "images/shert2.jfif", "images/shert3.jfif", 23000, "Annaba",
       "Le Sheraton Annaba Hotel propose des hébergements à Annaba, à 5 minutes de route de la basilique Saint-Augustin, à 3 minutes du musée d'Hippone et à 400 mètres du port d'Annaba. Les chambres sont équipées d'une télévision à écran plat, ainsi que d'une salle de bains privative munie d'une baignoire et d'un bidet. L'aéroport d'Annaba - Rabah-Bitat est accessible en 20 minutes en voiture du Sheraton Annaba Hotel.",
-      "10% de promotion", true, 82000,
+      "10% de promotion", true, 820,
     ),
     Service(1, "Salle des fetes", "images/S2.jpg", "images/S4.jpg", "images/S2.jpg", "images/S4.jpg",  130000 , "Alger-Dely Brahim ",
       "vous accueille dans un cadre féerique digne des mille et une nuit pour y célébrer votre mariage.Vous avez le choix entre deux décos, une rouge et l\’autre verte\, comme vous pouvez disposer d\’un salon secondaire pour hommes.Une terrasse est également mise à votre disposition ainsi qu’un espace de restauration. La salle des fêtes vous propose aussi un service traiteur et vous offre même les boissons.",
@@ -36,11 +36,11 @@ class AccueilState extends State<Accueil> {
     ),
     Service(4, "Sheraton Oran", "images/shert.jfif", "images/shert1.jfif", "images/shert2.jfif", "images/shert3.jfif", 23000, "Oran",
       "Le Sheraton Oran Hotel propose des hébergements à Annaba, à 5 minutes de route de la basilique Saint-Augustin, à 3 minutes du musée d'Hippone et à 400 mètres du port d'Annaba. Les chambres sont équipées d'une télévision à écran plat, ainsi que d'une salle de bains privative munie d'une baignoire et d'un bidet. L'aéroport d'Oran - Rabah-Bitat est accessible en 20 minutes en voiture du Sheraton Oran Hotel.",
-      "25% de promotion", false, 820000,
+      "25% de promotion", false, 8200,
     ),
     Service(5, "Hadil photo", "images/phg.jfif", "images/ph.jfif", "images/phg.jfif", "images/ph.jfif", 53000, "Annaba-Annaba",
       "Notre photographe capturera des moments inoubliables dans nos salles, créant des images saisissantes et mémorables. Faites confiance à notre talentueux professionnel pour immortaliser vos événements avec une expertise artistique et une attention aux détails exceptionnelles.",
-      "30% de promotion", true, 20000,
+      "30% de promotion", true, 200,
     ),
 
 
