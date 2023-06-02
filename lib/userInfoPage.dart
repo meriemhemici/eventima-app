@@ -200,7 +200,7 @@ class _UserInfoPageState extends State<UserInfoPage> {
     onPressed: () {
     showDialog(
     context: context,
-    builder: (context) => AccountPage(),
+    builder: (context) => UserInfoPage(),
     );
     },
     ),
