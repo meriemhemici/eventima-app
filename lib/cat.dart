@@ -21,11 +21,11 @@ class CatState extends State<Cat> {
   final List<Service> services = [
     Service(0, "Sheraton Hotel", "images/shert.jfif", "images/shert1.jfif", "images/shert2.jfif", "images/shert3.jfif", 23000, "Annaba",
       "Le Sheraton Annaba Hotel propose des hébergements à Annaba, à 5 minutes de route de la basilique Saint-Augustin, à 3 minutes du musée d'Hippone et à 400 mètres du port d'Annaba. Les chambres sont équipées d'une télévision à écran plat, ainsi que d'une salle de bains privative munie d'une baignoire et d'un bidet. L'aéroport d'Annaba - Rabah-Bitat est accessible en 20 minutes en voiture du Sheraton Annaba Hotel.",
-      "10% de promotion", false, 820000,
+      "10% de promotion", false, 820,
     ),
     Service(2, "Sheraton Hotel", "images/shert.jfif", "images/shert1.jfif", "images/shert2.jfif", "images/shert3.jfif", 23000, "Oran",
       "Le Sheraton Oran Hotel propose des hébergements à Annaba, à 5 minutes de route de la basilique Saint-Augustin, à 3 minutes du musée d'Hippone et à 400 mètres du port d'Annaba. Les chambres sont équipées d'une télévision à écran plat, ainsi que d'une salle de bains privative munie d'une baignoire et d'un bidet. L'aéroport d'Oran - Rabah-Bitat est accessible en 20 minutes en voiture du Sheraton Oran Hotel.",
-      "10% de promotion", false, 820000,
+      "10% de promotion", false, 8200,
     ),
 
   ];
